@@ -1,0 +1,2 @@
+/* Error boundary uses global design tokens; optional extra styling */
+.error-boundary-actions .btn { border-radius: var(--radius, 12px); }
